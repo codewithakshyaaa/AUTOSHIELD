@@ -1,0 +1,10 @@
+{
+  "name": "Remix AutoShield - Agentic Infrastructure Protection with x402 \u0026 Algorand",
+  "description": "Autonomous public infrastructure protection system powered by x402 HTTP payment gates, AI severity assessment, GoPlausible Facilitator, and Algorand Testnet escrow.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
